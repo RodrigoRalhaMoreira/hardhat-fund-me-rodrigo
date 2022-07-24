@@ -1,5 +1,4 @@
 { 
-  "name": "hardhat fund me",
   "author": "Rodrigo Moreira",
   "devDependencies": {
     "@chainlink/contracts": "^0.4.1",
